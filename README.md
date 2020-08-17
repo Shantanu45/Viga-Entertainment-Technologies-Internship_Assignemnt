@@ -1,5 +1,5 @@
 # Viga Entertainment Technologies - Internship Assignment
-This repository is in refrence to Assignment given for Internship in Viga Entertainment Technologies Ltd
+This repository is in refrence to the Assignment given for Internship in Viga Entertainment Technologies Ltd
 
 ## Instructions
 
