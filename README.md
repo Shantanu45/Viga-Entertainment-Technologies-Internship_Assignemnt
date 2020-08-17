@@ -11,7 +11,7 @@ No external models were used as those can be modelled by third-party softwares l
 
 **Source Code**
 
-> Inside `Deform-Surface-OpenGL\`
+> Inside `Deform-Surface-OpenGL/`
 
 
 - **Dependencies/**
