@@ -10,11 +10,11 @@
       
   - **Camera.cpp and Camera.h**
       
-      Controls camera movement and contains  information for View Matrix.
+      Controls camera movement and contains  information for `view` matrix.
       
   - **imports.h**
   
-      Contains includes for Main.cpp. Created to make Main.cpp cleaner.
+      Contains includes for `Main.cpp`. Created to make Main.cpp cleaner.
       
   - **Light.cpp and Light.h**
   
