@@ -3,7 +3,7 @@ This repository is in refrence to the Assignment given for Internship in Viga En
 
 Languages Used: `C++` and `OpenGL`
 
-No external models was used as those can be modelled by third-party softwares like Blender and Maya and easily imported into the program.  
+No external models were used as those can be modelled by third-party softwares like Blender and Maya and easily imported into the program.  
 
 ## Instructions
 
