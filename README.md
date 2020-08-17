@@ -3,13 +3,13 @@ This repository is in refrence to the Assignment given for Internship in Viga En
 
 ## Instructions
 
-> Run Release\Deform-Surface-OpenGL.exe
+> Run Release/Deform-Surface-OpenGL.exe
 
 **Source Code**
 
-> Inside Release\Deform-Surface-OpenGL
+> Inside Release/Deform-Surface-OpenGL
 
 
-- **Dependencies\\**
+- **Dependencies/**
 
     Contains all the required libraries
