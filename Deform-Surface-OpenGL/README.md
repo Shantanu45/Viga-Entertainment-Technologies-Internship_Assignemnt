@@ -1,5 +1,4 @@
 ### File Structure
 
   - **Sahder/** 
-  
-  Contains **Vertex** and **Fragment** Shaders
+      Contains **Vertex** and **Fragment** Shaders
