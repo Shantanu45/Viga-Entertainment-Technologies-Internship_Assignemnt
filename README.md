@@ -13,7 +13,6 @@ No external models were used as those can be modelled by third-party softwares l
 
 > Inside `Deform-Surface-OpenGL/`
 
+**Dependencies/**
 
-- **Dependencies/**
-
-    Contains all the required libraries
+> Contains all the required libraries
