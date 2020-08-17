@@ -8,3 +8,7 @@ This repository is in refrence to the Assignment given for Internship in Viga En
 **Source Code**
 
 > Inside Release/Deform-Surface-OpenGL
+
+
+- **Dependencies\**
+    Contains all the required libraries
