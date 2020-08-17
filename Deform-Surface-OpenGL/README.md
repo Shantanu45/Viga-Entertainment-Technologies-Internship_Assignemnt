@@ -1,16 +1,16 @@
 ### Directory Structure
 
-  - **Sahder/** 
+  - **Shader/** 
   
       Contains **Vertex** and **Fragment** Shaders.
   
   - **Texture/**
   
-      Contains all requred textures.
+      Contains all required textures.
       
   - **Camera.cpp and Camera.h**
       
-      Controls camera movement and Contains  information for View Matrix.
+      Controls camera movement and contains  information for View Matrix.
       
   - **imports.h**
   
@@ -26,7 +26,7 @@
       
   - **Matetial.cpp and Material.h**
   
-      Setup for Secular highlights of the materials
+      Setup for specular highlights for the materials
       
   - **Mesh.cpp and Mesh.h**
   
