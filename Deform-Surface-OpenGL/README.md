@@ -2,7 +2,7 @@
 
   - **Shader/** 
   
-      Contains **Vertex** and **Fragment** Shaders.
+      Contains `shader.vert` (Vertex Shader) and `shader.frag` (Fragment Shader).
   
   - **Texture/**
   
@@ -34,7 +34,7 @@
       
  - **Shader.cpp and Shader.h**
  
-      For Reading Vertex and Fragment shaders form `Shader/` and Compiling them
+      For Reading `shader.vert` and `shader.frag` shaders form `Shader/` and Compiling them
       
  - **stb_image.h**
     
