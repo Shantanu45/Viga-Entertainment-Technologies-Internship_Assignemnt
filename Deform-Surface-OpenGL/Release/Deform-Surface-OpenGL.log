@@ -1,0 +1,58 @@
+﻿  Camera.cpp
+  Light.cpp
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Light.cpp(25,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Light.cpp(26,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Light.cpp(28,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Light.cpp(29,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Main.cpp
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Main.cpp(120,40): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Main.cpp(119,40): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Main.cpp(118,40): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Main.cpp(117,54): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Main.cpp(344,14): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Material.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture.cpp
+  Window.cpp
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(141,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(142,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(146,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(147,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(149,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(150,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Deform-Surface-OpenGL\Window.cpp(88): warning C4715: 'Window::Initialise': not all control paths return a value
+  All 519 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : warning LNK4286: symbol '___glewUniform3f' defined in 'glew32s.lib(glew.obj)' is imported by 'Light.obj'
+LINK : warning LNK4286: symbol '___glewUniform1f' defined in 'glew32s.lib(glew.obj)' is imported by 'Light.obj'
+LINK : warning LNK4286: symbol '___glewDeleteBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewDeleteVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '___glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetProgramInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewDeleteProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetProgramiv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewValidateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUseProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGenerateMipmap' defined in 'glew32s.lib(glew.obj)' is imported by 'Texture.obj'
+LINK : warning LNK4286: symbol '___glewActiveTexture' defined in 'glew32s.lib(glew.obj)' is imported by 'Texture.obj'
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Release\vc120.pdb'; linking object as if no debug info
+  Deform-Surface-OpenGL.vcxproj -> D:\Z_Etc\internship OpenGL\Project\Deform-Surface-OpenGL\Release\Deform-Surface-OpenGL.exe
