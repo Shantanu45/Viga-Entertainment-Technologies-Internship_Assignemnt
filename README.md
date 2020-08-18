@@ -8,7 +8,7 @@ No external models were used as those can be modelled by third-party softwares l
 ## Instructions
 
 > Run `Release/Deform-Surface-OpenGL.exe`.
-> You can use `W`,`S`,`A`,`D` kyes and Mouse to move around.
+> You can use `W`,`S`,`A`,`D` keys and Mouse to move around.
 
 **Source Code**
 
