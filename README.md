@@ -17,3 +17,6 @@ No external models were used as those can be modelled by third-party softwares l
 **Dependencies**
 
 > Inside `Dependencies/`. Contains all the required libraries.
+
+
+This project was made with `Visual Studio 2019`.
