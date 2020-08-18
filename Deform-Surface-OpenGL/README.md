@@ -38,7 +38,7 @@
       
  - **stb_image.h**
     
-      Simple library for reading image and manipulating data
+      Simple library for reading and manipulating images
       
  - **Texture.cpp and Texture.h**
  
