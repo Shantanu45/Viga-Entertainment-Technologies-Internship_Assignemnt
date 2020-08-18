@@ -26,24 +26,24 @@
       
   - **Matetial.cpp and Material.h**
   
-      Setup for specular highlights for the materials
+      Setup for specular highlights for the materials.
       
   - **Mesh.cpp and Mesh.h**
   
-      Contians VAO, VBO and IBO configurations
+      Contians VAO, VBO and IBO configurations.
       
  - **Shader.cpp and Shader.h**
  
-      For Reading `shader.vert` and `shader.frag` shaders form `Shader/` and Compiling them
+      For Reading `shader.vert` and `shader.frag` shaders form `Shader/` and Compiling them.
       
  - **stb_image.h**
     
-      Simple library for reading and manipulating images
+      Simple library for reading and manipulating images.
       
  - **Texture.cpp and Texture.h**
  
-      Setup for projecting Textures onto the models
+      Setup for projecting Textures onto the models.
       
  - **Window.cpp and Window.h**
  
-      For creating simple GLFW window and providing Key and Mouse Controls
+      For creating simple GLFW window and providing Key and Mouse Controls.
